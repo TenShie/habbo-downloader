@@ -17,6 +17,7 @@ async function handle () {
     { src: `https://images.habbo.com/gordon/${prod}/demonmonkey.swf`, dst: `resource/gordon/${prod}/demonmonkey.swf` },
     { src: `https://images.habbo.com/gordon/${prod}/dog.swf`, dst: `resource/gordon/${prod}/dog.swf` },
     { src: `https://images.habbo.com/gordon/${prod}/dragon.swf`, dst: `resource/gordon/${prod}/dragon.swf` },
+    { src: `https://images.habbo.com/gordon/${prod}/Dragon.swf`, dst: `resource/gordon/${prod}/dragon1.swf` },
     { src: `https://images.habbo.com/gordon/${prod}/fools.swf`, dst: `resource/gordon/${prod}/fools.swf` },
     { src: `https://images.habbo.com/gordon/${prod}/frog.swf`, dst: `resource/gordon/${prod}/frog.swf` },
     { src: `https://images.habbo.com/gordon/${prod}/gnome.swf`, dst: `resource/gordon/${prod}/gnome.swf` },
